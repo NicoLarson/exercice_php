@@ -1,6 +1,6 @@
 <?php include_once("./src/env_php.include.php") ?>
 <!DOCTYPE html>
-<html lang=<?php echo $lang ?>>
+<html lang="<?php echo $lang ?>">
 
 <head>
     <meta charset="UTF-8">
